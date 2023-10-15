@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/hp/Desktop/hello",
-      "program": "c:/Users/hp/Desktop/hello/build/Debug/outDebug",
+      "cwd": "c:/Users/hp/Desktop/hack/hello",
+      "program": "c:/Users/hp/Desktop/hack/hello/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
